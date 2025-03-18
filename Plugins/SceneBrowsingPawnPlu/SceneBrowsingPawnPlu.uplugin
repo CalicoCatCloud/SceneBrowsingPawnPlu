@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SceneBrowsingPawnPlu",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "CalicoCatCloud",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"WhitelistPlatforms":["Win64"],
+	"EngineVersion":"5.5.0",
+	"Modules": [
+		{
+			"Name": "SceneBrowsingPawnPlu",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}

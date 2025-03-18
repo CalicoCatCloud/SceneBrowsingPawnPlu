@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SceneBrowsingPawnPlu.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\ue\UEPluginS\Other\BIMPawn\5_5\SceneBrowsingPawn\Intermediate\Build\Win64\x64\SceneBrowsingPawnEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"F:\ue\UEPluginS\Other\BIMPawn\5_5\SceneBrowsingPawn\Plugins\SceneBrowsingPawnPlu\Intermediate\Build\Win64\x64\UnrealEditor\Development\SceneBrowsingPawnPlu\Module.SceneBrowsingPawnPlu.cpp.obj"
+"F:\ue\UEPluginS\Other\BIMPawn\5_5\SceneBrowsingPawn\Plugins\SceneBrowsingPawnPlu\Intermediate\Build\Win64\x64\UnrealEditor\Development\SceneBrowsingPawnPlu\SceneBrowsingPawn.cpp.obj"
+"F:\ue\UEPluginS\Other\BIMPawn\5_5\SceneBrowsingPawn\Plugins\SceneBrowsingPawnPlu\Intermediate\Build\Win64\x64\UnrealEditor\Development\SceneBrowsingPawnPlu\SceneBrowsingPawnPlu.cpp.obj"
+"F:\ue\UEPluginS\Other\BIMPawn\5_5\SceneBrowsingPawn\Plugins\SceneBrowsingPawnPlu\Intermediate\Build\Win64\x64\UnrealEditor\Development\SceneBrowsingPawnPlu\SceneBrowsingPawnPluBPLibrary.cpp.obj"
+"F:\ue\UEPluginS\Other\BIMPawn\5_5\SceneBrowsingPawn\Plugins\SceneBrowsingPawnPlu\Intermediate\Build\Win64\x64\UnrealEditor\Development\SceneBrowsingPawnPlu\Default.rc2.res"
+/OUT:"F:\ue\UEPluginS\Other\BIMPawn\5_5\SceneBrowsingPawn\Plugins\SceneBrowsingPawnPlu\Intermediate\Build\Win64\x64\UnrealEditor\Development\SceneBrowsingPawnPlu\UnrealEditor-SceneBrowsingPawnPlu.lib"

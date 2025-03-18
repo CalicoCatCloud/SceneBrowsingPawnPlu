@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SceneBrowsingPawnPlu.cpp.obj": [
+			"SceneBrowsingPawn.gen.cpp.obj",
+			"SceneBrowsingPawnPlu.init.gen.cpp.obj",
+			"SceneBrowsingPawnPluBPLibrary.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"SceneBrowsingPawn.cpp.obj",
+			"SceneBrowsingPawnPlu.cpp.obj",
+			"SceneBrowsingPawnPluBPLibrary.cpp.obj"
+		]
+	}
+}

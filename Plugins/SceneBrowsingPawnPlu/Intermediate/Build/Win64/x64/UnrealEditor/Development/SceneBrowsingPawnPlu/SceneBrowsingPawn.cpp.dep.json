@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\source\\scenebrowsingpawnplu\\private\\scenebrowsingpawn.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\intermediate\\build\\win64\\x64\\scenebrowsingpawneditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\scenebrowsingpawnplu\\definitions.scenebrowsingpawnplu.h",
+            "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\source\\scenebrowsingpawnplu\\public\\scenebrowsingpawn.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\defaultpawn.h",
+            "e:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\defaultpawn.generated.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\staticmeshactor.h",
+            "e:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\staticmeshactor.generated.h",
+            "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\intermediate\\build\\win64\\unrealeditor\\inc\\scenebrowsingpawnplu\\uht\\scenebrowsingpawn.generated.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerinput.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\public\\gesturerecognizer.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\public\\keystate.h",
+            "e:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerinput.generated.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "e:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "e:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "e:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "e:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

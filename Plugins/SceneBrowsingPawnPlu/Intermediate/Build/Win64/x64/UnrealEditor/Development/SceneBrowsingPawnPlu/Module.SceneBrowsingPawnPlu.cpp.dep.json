@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\scenebrowsingpawnplu\\module.scenebrowsingpawnplu.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\intermediate\\build\\win64\\x64\\scenebrowsingpawneditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\scenebrowsingpawnplu\\definitions.scenebrowsingpawnplu.h",
+            "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\intermediate\\build\\win64\\unrealeditor\\inc\\scenebrowsingpawnplu\\uht\\scenebrowsingpawn.gen.cpp",
+            "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\source\\scenebrowsingpawnplu\\public\\scenebrowsingpawn.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\defaultpawn.h",
+            "e:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\defaultpawn.generated.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\staticmeshactor.h",
+            "e:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\staticmeshactor.generated.h",
+            "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\intermediate\\build\\win64\\unrealeditor\\inc\\scenebrowsingpawnplu\\uht\\scenebrowsingpawn.generated.h",
+            "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\intermediate\\build\\win64\\unrealeditor\\inc\\scenebrowsingpawnplu\\uht\\scenebrowsingpawnplu.init.gen.cpp",
+            "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\intermediate\\build\\win64\\unrealeditor\\inc\\scenebrowsingpawnplu\\uht\\scenebrowsingpawnplubplibrary.gen.cpp",
+            "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\source\\scenebrowsingpawnplu\\public\\scenebrowsingpawnplubplibrary.h",
+            "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\intermediate\\build\\win64\\unrealeditor\\inc\\scenebrowsingpawnplu\\uht\\scenebrowsingpawnplubplibrary.generated.h",
+            "f:\\ue\\ueplugins\\other\\bimpawn\\5_5\\scenebrowsingpawn\\plugins\\scenebrowsingpawnplu\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\scenebrowsingpawnplu\\permoduleinline.gen.cpp",
+            "e:\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
